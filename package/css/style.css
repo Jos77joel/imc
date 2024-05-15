@@ -1,5 +1,5 @@
 body{
-    background-image: url(https://i.pinimg.com/564x/5e/0f/59/5e0f59815c2e40b2a43efe4bdffbd670.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.767),rgba(0, 0, 0, 0.767)), url(https://i.pinimg.com/564x/5e/0f/59/5e0f59815c2e40b2a43efe4bdffbd670.jpg);
     background-size: cover;
 }
 main{
@@ -40,7 +40,7 @@ section>h2{
 }
 
 section>.p1{
-    background-image: url(https://i.pinimg.com/736x/8c/e9/f5/8ce9f5d684fc64c0d25bfb8f0d6ab62b.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.767),rgba(0, 0, 0, 0.767)), url(https://i.pinimg.com/736x/8c/e9/f5/8ce9f5d684fc64c0d25bfb8f0d6ab62b.jpg);
     background-size: cover;
     background-position: center;
     color: rgb(255, 255, 255);
@@ -48,7 +48,7 @@ section>.p1{
     padding: 2%;
 }
 section>.p2{
-    background-image: url(https://i.pinimg.com/736x/1b/d4/46/1bd446f4ac5d3c0145a8db52f1909f88.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.767),rgba(0, 0, 0, 0.767)), url(https://i.pinimg.com/736x/1b/d4/46/1bd446f4ac5d3c0145a8db52f1909f88.jpg);
     background-size: cover;
     background-position:bottom;
     color: antiquewhite;
@@ -68,7 +68,7 @@ section>.p2{
     margin-right: 18%;
     margin-left: 18%;
     background-size: cover;
-    background-image: url(https://i.pinimg.com/originals/12/49/4b/12494bcb1e049ba8e80f5d27f6d1ec3f.gif);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.767),rgba(0, 0, 0, 0.767)), url(https://i.pinimg.com/originals/12/49/4b/12494bcb1e049ba8e80f5d27f6d1ec3f.gif);
     display: flex;
     justify-items: center;
     justify-content: center;
